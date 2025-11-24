@@ -15,12 +15,6 @@
             android:name=".StatementActivity"
             android:exported="false" />
         <activity
-            android:name=".StatementList"
-            android:exported="false" />
-        <activity
-            android:name=".StatamentActivity"
-            android:exported="false" />
-        <activity
             android:name=".CreditActivity"
             android:exported="false" />
         <activity
